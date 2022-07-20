@@ -12,7 +12,7 @@ The controller serves three purposes:
 2. Take the TTL data signal from the PixelBlaze output expander and convert into RS-422 via a MAX485
 3. Mount the PB controller and output expander boards directly to my board, which required a 5V linear converter and power bus.
 
-TODO: Still need to fix the header alignment on the pixelblaze output expander, I just roughed it in for now... SO, dont use it yet.
+**TODO: Still need to fix the header alignment on the pixelblaze output expander, I just roughed it in for now... SO, dont use it yet.**
 
 
 Here's the PCB: 
